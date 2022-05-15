@@ -12,3 +12,4 @@ def sample_province_data
     price: 20
   }
 end
+
